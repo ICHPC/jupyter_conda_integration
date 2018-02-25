@@ -1,0 +1,14 @@
+package:
+ name: rcs_utils
+ version: 0.1
+
+source:
+ path: ../src
+
+requirements:
+ build:
+  - python
+
+ run:
+  - python
+
